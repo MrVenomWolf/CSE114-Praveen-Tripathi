@@ -1,4 +1,18 @@
 // Anubrota Majumdar, 114586887
+/*
+Write a program that prompts the user to enter two strings and display the largest common prefix of the two strings. If there are no common prefix between the two entered strings display a message which tells the user that the two string doesn’t have a common prefix.
+Examples:
+Enter the first string: Atlanta
+Enter the second string: Macon
+Atlanta and Macon have no common prefix.
+Enter the first string: Welcome to Java
+Enter the second string: Welcome to programming
+The common prefix is: Welcome to
+Note: The prefix actually includes the space after ‘to’ as well
+Enter the first string: I love coffee
+Enter the second string: I love Java
+The common prefix is I love
+*/
 import java.util.Scanner;
 
 public class largestcommonprefix {
