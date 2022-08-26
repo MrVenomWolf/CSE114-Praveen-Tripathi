@@ -1,3 +1,9 @@
+/*
+An emirp (prime spelled backward) is a non-palindromic prime number whose reversal is also a prime. For example, 17 is a prime and 71 is a prime, so 17 and 71 are emirps. Write a program that displays the first 100 emirps. Display 10 numbers per lie, separated by exactly one space, as follows:
+13 17 31 37 71 73 79 97 107 113 149 157 167 179 199 311 337 347 359 389 …
+You need to define and use two additional methods to check for the non-palindrome and prime conditions. Do not write the complete program in the main method.
+*/
+
 public class emirp {
 
 	public void check() {
