@@ -1,3 +1,8 @@
+/*
+Write a method that converts a decimal number into a binary number as a string. The method header is:
+public static String dec2Bin(int value)
+Write a test program that prompts the user to enter a decimal number and displays its binary equivalent.
+*/
 import java.util.Scanner;
 public class binarytodecimal {
 
